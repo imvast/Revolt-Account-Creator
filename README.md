@@ -44,6 +44,8 @@
 
 ### 🚀 Milestones
 
+- [ ] 10 Stars - Add Config
+- [ ] 15 Stars - Fix tempmail / Add HOTMAILBOX
 - [ ] 20 Stars - Add Joiner
 
 ---
